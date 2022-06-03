@@ -1,4 +1,4 @@
-<h1> 👋Oi meu nome Carlos Alberto</h1>
+<h1> 👋Oi meu nome é Carlos Alberto</h1>
 - 👀 Estudante de Ciência da Computação
  <br><br>
   
